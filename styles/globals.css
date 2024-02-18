@@ -1305,6 +1305,12 @@ table {
 .page-heading-section h1 {
   font-size: 40px;
 }
+.team-card-image {
+  min-width: 200px;
+  max-width: 200px;
+  min-height: 200px;
+  max-height: 200px;
+}
 @media only screen and (max-width: 821px) {
   .footer-links {
     padding: 0 14px;
