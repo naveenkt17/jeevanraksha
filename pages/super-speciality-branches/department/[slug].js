@@ -54,7 +54,7 @@ const DynamicPage = () => {
 
       <section className="page-heading-section pt16 pb48 bg-grdnt-01">
         <div className="wrapper">
-          <h1 className="mt40 mb16 tac">{data.name}</h1>
+          <h1 className="mt40 mb16 tac">{data && data.name}</h1>
           <Breadcrumb items={breadcrumbItems} />
         </div>
       </section>
