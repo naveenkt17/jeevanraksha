@@ -1,0 +1,28 @@
+
+[
+    {
+      "name": "Dr. Maria Hernandez",
+      "image": "/images/doctor2.png",
+      "specialization": "Internal Medicine Specialist",
+      "linkedin": "linkedin.com/mariahernandez"
+    },
+    {
+      "name": "Dr. Robert Turner",
+      "image": "/images/doctor3.png",
+      "specialization": "Cardiologist",
+      "linkedin": "linkedin.com/turner"
+    },
+    {
+      "name": "Dr. John Smith",
+      "image": "/images/doctor4.png",
+      "specialization": "Neurosurgeon",
+      "linkedin": "linkedin.com/johnsmith"
+    },
+    {
+      "name": "Dr. Sarah Davis",
+      "image": "/images/doctor5.png",
+      "specialization": "Pediatrician",
+      "linkedin": "linkedin.com/johnsmith"
+    }
+  ]
+  
